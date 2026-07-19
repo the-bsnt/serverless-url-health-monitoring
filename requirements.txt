@@ -1,0 +1,15 @@
+azure-core==1.41.0
+azure-data-tables==12.7.0
+azure-functions==1.24.0
+certifi==2026.6.17
+charset-normalizer==3.4.9
+idna==3.18
+isodate==0.7.2
+MarkupSafe==3.0.3
+multidict==6.7.1
+propcache==0.5.2
+requests==2.34.2
+typing_extensions==4.16.0
+urllib3==2.7.0
+Werkzeug==3.1.8
+yarl==1.24.2

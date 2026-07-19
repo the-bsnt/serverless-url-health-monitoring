@@ -1,0 +1,23 @@
+# Ignore local environment settings (Crucial for security!)
+local.settings.json
+
+# Ignore source control and IDE settings
+.git
+.vscode
+.github
+
+# Ignore local dependencies and environments
+node_modules/
+.venv/
+venv/
+__pycache__/
+
+# Ignore testing files
+tests/
+
+# Azurite local storage emulator artifacts
+__blobstorage__/
+__queuestorage__/
+__azurite_db*
+azurite_*.log
+AzuriteConfig
